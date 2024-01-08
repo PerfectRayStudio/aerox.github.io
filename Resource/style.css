@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Tilda";  
+    src: url("fonts/TildaSans-VF.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+     }
+body{
+    font-family: 'Tilda';
+}
+.layout{
+    font-family: 'Tilda';
+}
+.top-header{
+
+}
+.hero-wrapper{
+
+    background-image: url("./img/wrapper-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(132, 158, 176, 0.5);
+    background-blend-mode: multiply;
+}
+.nav-a{
+    color: #fff;
+    text-decoration: none;
+}
