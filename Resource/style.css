@@ -22,6 +22,11 @@ body{
     background-blend-mode: multiply;
 }
 .nav-a{
-    color: #fff;
+    color: #1A1B22;
     text-decoration: none;
+}
+.privacy {
+    font-weight: 500;
+    line-height: 1.75rem;
+    letter-spacing: 0.5px;
 }
