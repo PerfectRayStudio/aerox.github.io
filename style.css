@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body{
+    --aerox--background-color: #000;
+    --aerox--primary-color: #0D6EFD;
+    --aerox--text-color: #fff;
+    background-color: var(--aerox--background-color);
+    color: var(--aerox--text-color);
+    font-family: 'Manrope', sans-serif;
+}
+#AeroxTitle{
+    font-weight: 700;
+    font-size: 200px;
+    margin-top: 25vh;
+}
+#AeroxTitleArrows{
+    margin-top: 17.5vh;
+}
+#AeroxWhatIsTitle{
+   
+}
+#AeroxWhatIsTitleText{
+    font-weight: 700;
+    font-size: 120px;
+}
+#AeroxWhatIsDescription{
+    font-weight: 450;
+    opacity: 90%;
+    font-size: 40px;
+}
+#AeroxExchangeTitle{
+    font-weight: 700;
+    font-size: 60px;
+}
+#AeroxExchangeDescription{
+    opacity: 60%;
+    font-weight: 500;
+    font-size: 25px;
+}
+#AeroxExchange{
+    margin-top: 15vh;
+}
+#Line{
+    width: 100%;
+}
+.btn-light{
+    width: 230px;
+    height: 50px;
+    border-radius: 35px;
+    font-weight: 600;
+}
+.btn-blue{
+    width: 230px;
+    height: 50px;
+    font-weight: 600;
+    border-radius: 35px;
+    background-color: var(--aerox--primary-color);
+    color: var(--aerox--text-color);
+}
+a{
+    color: #247DFF;
+    text-decoration: none;
+}
+.layout{
+    background-color: var(--);
+}
+.privacy {
+    font-weight: 500;
+    line-height: 1.75rem;
+    letter-spacing: 0.5px;
+}
+.nav-a{
+    color: #fff;
+    text-decoration: none;
+    background-color: var(--aerox--background-color);
+}
+.top-header{
+    background-color: var(--aerox--background-color);
+}
