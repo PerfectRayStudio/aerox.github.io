@@ -49,6 +49,15 @@ body{
 #Line{
     width: 100%;
 }
+.tg:hover{
+    background-color: #247DFF;
+}
+.tw:hover{
+    background-color: #247DFF;
+}
+.ds:hover{
+    background-color: #247DFF;
+}
 .btn-light{
     width: 230px;
     height: 50px;
