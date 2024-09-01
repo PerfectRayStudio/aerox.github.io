@@ -16,9 +16,7 @@ body{
 #AeroxTitleArrows{
     margin-top: 17.5vh;
 }
-#AeroxWhatIsTitle{
-   
-}
+
 #AeroxWhatIsTitleText{
     font-weight: 700;
     font-size: 120px;
@@ -40,6 +38,14 @@ body{
 #AeroxExchange{
     margin-top: 15vh;
 }
+#AeroxRoadmapTitle{
+    font-weight: 700;
+    font-size: 120px;
+}
+#AeroxRoadmap{
+   font-weight: 700;
+   font-size: 120px;
+}                
 #Line{
     width: 100%;
 }
